@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on
+  * Research project software fault localization using ML
+  
+- 🌱 I’m currently learning 
+  * Typescript
+  * Terraform
+  * Azure
+  * AWS
+  * Jenkins
+  * Kubernetes
+  * Ansible
+  
+- ⚡ Skills:
+  * C, C++ (Very comfortable)
+  * Python, Java (Intermediate to advanced)
+  * SQL
+  * Docker
+  * git
+  * Selenium
+  * Jmeter
