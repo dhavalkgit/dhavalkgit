@@ -17,21 +17,10 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on
   * Research project software fault localization using ML
-  
-- 🌱 I’m currently learning 
-  * Typescript
-  * Terraform
-  * Azure
-  * AWS
-  * Jenkins
-  * Kubernetes
-  * Ansible
-  
+    
 - ⚡ Skills:
   * C, C++ (Very comfortable)
-  * Python, Java (Intermediate to advanced)
+  * Java (Intermediate)
   * SQL
   * Docker
   * git
-  * Selenium
-  * Jmeter
