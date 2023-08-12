@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-🔭 I’m currently working on
-  * Research project software fault localization using ML
-    
+ My name is Khimani Dhaval. I have recently completed my M.Tech in software engineering from NIT Rourkela.
 - ⚡ Skills:
   * C, C++ (Very comfortable)
   * Java (Intermediate)
