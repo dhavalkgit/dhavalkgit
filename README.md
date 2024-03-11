@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
  My name is Khimani Dhaval. I have recently completed my M.Tech in software engineering from NIT Rourkela.
 - ⚡ Skills:
-  * C, C++ (Very comfortable)
-  * Java (Intermediate)
+  * C, C++ 
+  * Java 
   * SQL
   * Docker
   * git
